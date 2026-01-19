@@ -1,0 +1,9 @@
+[package]
+name = "gossip-glomers"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+async-trait = "0.1.89"
+maelstrom-node = "0.1.6"
+uuid7 = "1.4.0"
